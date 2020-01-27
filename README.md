@@ -11,6 +11,8 @@ Allow the user to:
 
 Furthermore, implement also some vending machine admin commands.
 
-Usage:
+Get Product List:
+![VendingMachine Preview](https://raw.githubusercontent.com/dennewbie/vendingMachine/master/screenshot.PNG)
 
-![VendingMachine Preview](https://raw.githubusercontent.com/dennewbie/vendingMachine/master/screenshot.png)
+User request a product:
+![VendingMachine Preview 2](https://raw.githubusercontent.com/dennewbie/vendingMachine/master/screenshot_2.PNG)
