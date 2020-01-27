@@ -10,3 +10,7 @@ Allow the user to:
   - Periodically check the products that are almost over (less than 3 unit for a certain product).
 
 Furthermore, implement also some vending machine admin commands.
+
+Usage:
+
+![VendingMachine Preview](https://raw.githubusercontent.com/dennewbie/vendingMachine/master/screenshot.png)
