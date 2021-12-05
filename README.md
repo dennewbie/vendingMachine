@@ -1,6 +1,6 @@
 # Vending Machine
 
-Simulate the management and behavoir of a generic vending machine. Let's suppose to
+Simulate the management and behavior of a generic vending machine. Let's suppose to
 have 10 products identified by a name, an ID code, a price and an amount field.
 
 Allow the user to:
